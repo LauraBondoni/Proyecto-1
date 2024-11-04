@@ -1,0 +1,1 @@
+Este proyecto es una prueba para una futura página web profesional y quizá sobreviva como una segunda web personal
